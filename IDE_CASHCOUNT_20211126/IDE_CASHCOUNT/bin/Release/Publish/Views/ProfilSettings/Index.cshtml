@@ -1,0 +1,348 @@
+﻿@model IDE_CASHCOUNT.Models.ViewModels.ProfilSettingsViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Styles{
+    <style>
+        .form-container {
+            width: 50%;
+            border: 1px solid #CECFCE;
+            margin: auto;
+            border-radius: 8px;
+            padding: .8rem;
+        }
+
+        .form-bottom {
+            width: 50%;
+            margin: auto;
+        }
+
+        .custom-file-label::after {
+            content: "Seçin";
+        }
+
+        .upload {
+            background-color: #17a2b8;
+            color: white;
+            cursor: pointer;
+        }
+    </style>
+
+}
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid d-flex justify-content-between">
+        <div>
+
+            <ol class="breadcrumb float-sm-left">
+                <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Ana Səhifə</a></li>
+                <li class="breadcrumb-item active">Profilim</li>
+              
+            </ol>
+           
+        </div>
+
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <!-- <div class="card-header">
+                      <h3 class="card-title">DataTable with default features</h3>
+                    </div> -->
+                    <!-- /.card-header -->
+                    <div class="card-body">
+
+                        @using (Ajax.BeginForm("Update", "ProfilSettings", new AjaxOptions { HttpMethod = "POST" }))
+                        {
+                            @Html.AntiForgeryToken()
+                            @Html.HiddenFor(m => m.RECORD_ID)
+                            <div class="form-container">
+                                <div class="row d-flex justify-content-center">
+                                    <div class="col-12 col-md-2 d-flex align-items-center">
+                                        @Html.LabelFor(m => m.NAME_SURNAME)
+                                    </div>
+                                    <div class="col-12 col-md-6   align-items-center">
+                                        <div class="input-group mb-3 ">
+                                            @Html.TextBoxFor(m => m.NAME_SURNAME, new { @class = "form-control form-control-user", placeholder = "AD Soyad" })
+
+                                            <div class="input-group-append">
+                                                <div class="input-group-text">
+                                                    <span class="fas fa-user"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        @Html.ValidationMessageFor(m => m.NAME_SURNAME)
+                                    </div>
+                                </div>
+
+                                <div class="row d-flex justify-content-center">
+                                    <div class="col-12 col-md-2 d-flex align-items-center">
+                                        @Html.LabelFor(m => m.USER_NAME)
+                                    </div>
+                                    <div class="col-12 col-md-6   align-items-center">
+                                        <div class="input-group mb-3 ">
+                                            @Html.TextBoxFor(m => m.USER_NAME, new { @class = "form-control form-control-user", placeholder = "İstifadəəçi Adı" })
+
+                                            <div class="input-group-append">
+                                                <div class="input-group-text">
+                                                    <span class="fas fa-user"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        @Html.ValidationMessageFor(m => m.USER_NAME)
+                                    </div>
+                                </div>
+
+                                <div class="row d-flex justify-content-center">
+                                    <div class="col-12 col-md-2 d-flex align-items-center">
+                                        @Html.LabelFor(m => m.PASSWORD)
+                                    </div>
+                                    <div class="col-12 col-md-6   align-items-center">
+                                        <div class="input-group mb-3 ">
+                                            @Html.PasswordFor(m => m.PASSWORD, new { @class = "form-control form-control-user", placeholder = "Şifrə" })
+
+                                            <div class="input-group-append">
+                                                <div class="input-group-text">
+                                                    <span class="fas fa-lock"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        @Html.ValidationMessageFor(m => m.PASSWORD)
+                                    </div>
+                                </div>
+                                <div class="form-bottom d-flex justify-content-center">
+                                    <button type="submit" class="btn mbg-primary ">Yadda saxla</button>
+                                </div>
+
+                            </div>
+
+
+
+
+                            @*<div class="input-group mb-3">
+                                    @Html.LabelFor(m => m.USER_NAME)
+                                    @Html.TextBoxFor(m => m.USER_NAME, new { @class = "form-control form-control-user", placeholder = "İstifadəçi Adı" })
+                                    @Html.ValidationMessageFor(m => m.USER_NAME)
+                                    <div class="input-group-append">
+                                        <div class="input-group-text">
+                                            <span class="fas fa-user"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="input-group mb-3">
+                                    @Html.LabelFor(m => m.USER_NAME)
+                                    @Html.PasswordFor(m => m.PASSWORD, new { @class = "form-control form-control-user", placeholder = "Şifrə" })
+                                    @Html.ValidationMessageFor(m => m.PASSWORD)
+                                    <div class="input-group-append">
+                                        <div class="input-group-text">
+                                            <span class="fas fa-lock"></span>
+                                        </div>
+                                    </div>
+                                </div>*@
+
+
+
+
+
+
+
+                        }
+
+
+
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <!-- /.col -->
+        </div>
+
+        <!--/.row-->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-default">
+                    <div class="card-header">
+                        <h3 class="card-title">Şirkət məlumatları</h3>
+                    </div>
+                    <div class="card-body">
+                        @using (Ajax.BeginForm("UploadLogo", "ProfilSettings", new AjaxOptions { HttpMethod = "POST" }, new { enctype = "multipart/form-data" }))
+                        {
+                            <div class="form-group">
+                                <label for="exampleInputFile">Şirkət loqosu</label>
+                                <div class="input-group">
+                                    <div class="custom-file">
+                                        @Html.TextBoxFor(m => m.LogoImage, new { type = "file", id = "exampleInputFile", @class = "custom-file-input", @accept = ".jpg,.jpeg,.png,.tigg,.gif,.ico" })
+                                        <label class="custom-file-label" for="exampleInputFile">Şəkil seç</label>
+                                    </div>
+                                    <div class="input-group-append">
+                                        <button class="input-group-text upload d-block" id="" type="submit"><i class="fas fa-upload pr-1"></i>Yüklə</button>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+                        @*<div class="table table-striped files" id="previews">
+                                <div id="template" class="row mt-2">
+                                    <div class="col-auto">
+                                        <span class="preview"><img src="data:," alt="" data-dz-thumbnail/></span>
+                                    </div>
+                                    <div class="col d-flex align-items-center">
+                                        <p class="mb-0">
+                                            <span class="lead" data-dz-name></span>
+                                            (<span data-dz-size></span>)
+                                        </p>
+                                        <strong class="error text-danger" data-dz-errormessage></strong>
+                                    </div>
+                                    <div class="col-4 d-flex align-items-center">
+                                        <div class="progress progress-striped active w-100" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+                                            <div class="progress-bar progress-bar-success" style="width:0%;" data-dz-uploadprogress></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-auto d-flex align-items-center">
+                                        <div class="btn-group">
+                                            <button class="btn btn-primary start" onclick="LogoUpload()">
+                                                <i class="fas fa-upload"></i>
+                                                <span>Yüklə</span>
+                                            </button>
+                                            <button data-dz-remove class="btn btn-warning cancel">
+                                                <i class="fas fa-times-circle"></i>
+                                                <span>Bağla</span>
+                                            </button>
+                                            <button data-dz-remove class="btn btn-danger delete">
+                                                <i class="fas fa-trash"></i>
+                                                <span>Sil</span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>*@
+                    </div>
+
+                </div>
+                @*/.card*@
+            </div>
+        </div>
+
+
+        @*/.row*@
+    </div>
+    @*/.container-fluid*@
+</section>
+<!-- /.content -->
+
+@section scripts{
+    <!-- bs-custom-file-input -->
+    <script src="~/Content/lib/admin-lte/plugins/bs-custom-file-input/bs-custom-file-input.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            bsCustomFileInput.init();
+        });
+    </script>
+
+    @if (ViewBag.UserSettingsMessage != null)
+    {
+        <script type="text/javascript" charset="utf-8">
+
+              $.notify("@Html.Raw(ViewBag.UserSettingsMessage)", { position: "top center", autoHideDelay: 8000 });
+
+        </script>
+    }
+
+    @if (ViewBag.UserSettingsSuccess != null)
+    {
+
+        <script>
+            $.notify("@Html.Raw(ViewBag.UserSettingsSuccess)", {
+                globalPosition: "top center",
+                className: "success"
+            })
+        </script>
+    }
+
+
+}
+
+
+
+@*@section scripts{
+         dropzonejs
+        <script src="~/Content/lib/admin-lte/plugins/dropzone/min/dropzone.min.js"></script>
+       <script>
+           // DropzoneJS Demo Code Start
+           Dropzone.autoDiscover = false;
+
+           // Get the template HTML and remove it from the doumenthe template HTML and remove it from the doument
+           var previewNode = document.querySelector("#template");
+           previewNode.id = "";
+           var previewTemplate = previewNode.parentNode.innerHTML;
+           previewNode.parentNode.removeChild(previewNode);
+
+           var myDropzone = new Dropzone(document.body, { // Make the whole body a dropzone
+               url: "/Home/Index", // Set the url
+               thumbnailWidth: 100,
+               thumbnailHeight: 100,
+               parallelUploads: 1,
+               maxFiles: 1,
+               acceptedFiles:".jpeg,.png,.jpg",
+               previewTemplate: previewTemplate,
+               resizeWidth: "350",
+               autoQueue: false, // Make sure the files aren't queued until manually added
+               previewsContainer: "#previews", // Define the container to display the previews
+               clickable: ".fileinput-button", // Define the element that should be used as click trigger to select files.
+           });
+
+           myDropzone.on("addedfile", function (file) {
+               // Hookup the start button
+
+               file.previewElement.querySelector(".start").onclick = function () { myDropzone.enqueueFile(file); };
+           });
+
+           // Update the total progress bar
+           myDropzone.on("totaluploadprogress", function (progress) {
+               //document.querySelector("#total-progress .progress-bar").style.width = progress + "%";
+           });
+
+           myDropzone.on("sending", function (file) {
+               // Show the total progress bar when upload starts
+               //document.querySelector("#total-progress").style.opacity = "1";
+               // And disable the start button
+               file.previewElement.querySelector(".start").setAttribute("disabled", "disabled");
+               file.previewElement.querySelector(".start").setAttribute("disabled", "disabled");
+           });
+
+           // Hide the total progress bar when nothing's uploading anymore
+           myDropzone.on("queuecomplete", function (progress) {
+               //document.querySelector("#total-progress").style.opacity = "0";
+           });
+
+           // Setup the buttons for all transfers
+           // The "add files" button doesn't need to be setup because the config
+           // `clickable` has already been specified.
+           function LogoUpload() {
+               //alert("asdasda");
+               //myDropzone.enqueueFiles(myDropzone.getFilesWithStatus(Dropzone.ADDED));
+           }
+           //document.querySelector("#actions .start").onclick = function () {
+           //    aler("start");
+           //    //
+           //};
+           //document.querySelector("#actions .cancel").onclick = function () {
+           //    myDropzone.removeAllFiles(true);
+           //};
+        // DropzoneJS Demo Code End
+        </script>
+    }*@
+
+
+
+
+
+

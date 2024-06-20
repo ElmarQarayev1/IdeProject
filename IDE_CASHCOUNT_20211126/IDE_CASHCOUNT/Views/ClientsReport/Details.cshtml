@@ -1,0 +1,85 @@
+﻿
+@model IDE_CASHCOUNT.Models.ViewModels.IDE_MIQRA.ClientsAktViewModel
+@{ Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Akt</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        table .td {
+            font-size: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div>
+
+            <p>
+                <img src="/Content/files/images/logos/default-logo.png" alt="Girl in a jacket" width="250" height="100">
+            </p>
+            <p>
+
+                <b>Şirkət :</b>
+                @{
+                    string firm_name = System.Configuration.ConfigurationManager.AppSettings["FirmName"];
+                    if (firm_name != "")
+                    {
+                        <span>@firm_name</span>
+                    }
+                }
+            </p>
+            <p><b>Müştəri Kodu :</b>@Model.CLIENT_CODE</p>
+            <p><b>Müştəri Adı :</b>@Model.CLIENT_NAME</p>
+            <p><b>Hesabat Tarixi :</b>@DateTime.Now</p>
+        </div>
+        <div class="mt-5">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Mal Kodu</th>
+                        <th scope="col">Mal Adı</th>
+                        <th scope="col">Əvvələ qalıq</th>
+                        <th scope="col">Əvvələ qalıq cəm</th>
+                        <th scope="col">Satış</th>
+                        <th scope="col">Sona qalıq</th>
+                        <th scope="col">Sona qalıq cəm</th>
+                        <th scope="col">Qiymət</th>
+                        <th scope="col">Cəm</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.IDE_PROCEDURE_CLIENTS_AKT)
+                    {
+                        <tr>
+                            <td>@item.STOCK_CODE</td>
+                            <td>@item.STOCK_NAME</td>
+                            <td>@item.BEFORE_ONHAND</td>
+                            <td>@item.BEFORE_ONHAND_TOTAL</td>
+                            <td>@item.SALE_AMOUNT</td>
+                            <td>@item.AFTER_ONHAND</td>
+                            <td>@item.AFTER_ONHAND_TOTAL</td>
+                            <td>@item.PRICE</td>
+                            <td>@item.TOTAL</td>
+                        </tr>
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

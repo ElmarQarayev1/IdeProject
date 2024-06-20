@@ -1,0 +1,56 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    IDE_CASHCOUNT.Common.Security.SecurityService service = new IDE_CASHCOUNT.Common.Security.SecurityService();
+}
+
+
+@section Styles{
+    <style>
+        .img-container {
+            position: relative;
+            height: 500px;
+            width: 100%;
+            display: block;
+            margin: 0 5px;
+        }
+
+        .home-img {
+            position: absolute;
+            margin: auto;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+        }
+    </style>
+}
+
+@{
+    @*string a = service.GetUserAuthTicket().Name;
+        <p>@a</p>*@
+}
+
+<section class="content">
+    <iv class="img-container">
+        <!-- Inline parent element -->
+        @{
+            string firm_logo = System.Configuration.ConfigurationManager.AppSettings["LogoUrl"];
+            if (firm_logo != "")
+            {
+                string full_url = @"../Content/webFiles/logo/" + firm_logo;
+                <img src="@full_url" class="home-img" />
+            }
+            else
+            {
+                <img src="~/Content/files/images/logos/default-logo.png" class="home-img" />
+            }
+
+        }
+    </iv>
+</section>
+
+
+

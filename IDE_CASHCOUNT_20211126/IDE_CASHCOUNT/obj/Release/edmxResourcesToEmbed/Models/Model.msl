@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="IDEProjectModelStoreContainer" CdmEntityContainer="IDEEntities">
+    <EntitySetMapping Name="IDE_USERS">
+      <EntityTypeMapping TypeName="IDEProjectModel.IDE_USERS">
+        <MappingFragment StoreEntitySet="IDE_USERS">
+          <ScalarProperty Name="API_KEY" ColumnName="API_KEY" />
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+          <ScalarProperty Name="CREATE_DATETIME" ColumnName="CREATE_DATETIME" />
+          <ScalarProperty Name="UPDATE_DATETIME" ColumnName="UPDATE_DATETIME" />
+          <ScalarProperty Name="LAST_LOGIN_TIME" ColumnName="LAST_LOGIN_TIME" />
+          <ScalarProperty Name="NAME_SURNAME" ColumnName="NAME_SURNAME" />
+          <ScalarProperty Name="USER_NAME" ColumnName="USER_NAME" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="ROLE" ColumnName="ROLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IDE_TEST">
+      <EntityTypeMapping TypeName="IDEProjectModel.IDE_TEST">
+        <MappingFragment StoreEntitySet="IDE_TEST">
+          <ScalarProperty Name="ROLE_1" ColumnName="ROLE_1" />
+          <ScalarProperty Name="ROLE" ColumnName="ROLE" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="PRODUCT_NAME" ColumnName="PRODUCT_NAME" />
+          <ScalarProperty Name="API_KEY" ColumnName="API_KEY" />
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

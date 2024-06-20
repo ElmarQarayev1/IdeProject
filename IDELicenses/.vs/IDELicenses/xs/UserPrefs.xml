@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8F2BCFB4-F093-4DBE-9738-AF0AA7CE0DF9}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IDELicenses/Properties/PublishProfiles/FolderProfile.pubxml">
+    <Files>
+      <File FileName="IDELicenses/Properties/AssemblyInfo.cs" />
+      <File FileName="IDELicenses/WebService.asmx" Line="2" Column="1" />
+      <File FileName="IDELicenses/Web.config" Line="17" Column="22" />
+      <File FileName="IDELicenses/Properties/PublishProfiles/FolderProfile.pubxml" Line="17" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IDELicenses" expanded="True">
+            <Node name="IDELicenses" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+                <Node name="AssemblyInfo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IDELicenses PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

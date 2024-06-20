@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="IDEProjectModelStoreContainer" CdmEntityContainer="IDEEntities">
+    <EntitySetMapping Name="IDE_USERS">
+      <EntityTypeMapping TypeName="IDEProjectModel.IDE_USERS">
+        <MappingFragment StoreEntitySet="IDE_USERS">
+          <ScalarProperty Name="API_KEY" ColumnName="API_KEY" />
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+          <ScalarProperty Name="CREATE_DATETIME" ColumnName="CREATE_DATETIME" />
+          <ScalarProperty Name="UPDATE_DATETIME" ColumnName="UPDATE_DATETIME" />
+          <ScalarProperty Name="LAST_LOGIN_TIME" ColumnName="LAST_LOGIN_TIME" />
+          <ScalarProperty Name="NAME_SURNAME" ColumnName="NAME_SURNAME" />
+          <ScalarProperty Name="USER_NAME" ColumnName="USER_NAME" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="ROLE" ColumnName="ROLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IDE_TEST_COUNTING">
+      <EntityTypeMapping TypeName="IDEProjectModel.IDE_TEST_COUNTING">
+        <MappingFragment StoreEntitySet="IDE_TEST_COUNTING">
+          <ScalarProperty Name="ITEM_MARK_CODE" ColumnName="ITEM_MARK_CODE" />
+          <ScalarProperty Name="ITEM_GROUP_CODE" ColumnName="ITEM_GROUP_CODE" />
+          <ScalarProperty Name="ITEM_NAME" ColumnName="ITEM_NAME" />
+          <ScalarProperty Name="ITEM_CODE" ColumnName="ITEM_CODE" />
+          <ScalarProperty Name="TRCODE" ColumnName="TRCODE" />
+          <ScalarProperty Name="FICHENO" ColumnName="FICHENO" />
+          <ScalarProperty Name="LOCATION_Y" ColumnName="LOCATION_Y" />
+          <ScalarProperty Name="LOCATION_X" ColumnName="LOCATION_X" />
+          <ScalarProperty Name="ADRESS2" ColumnName="ADRESS2" />
+          <ScalarProperty Name="ADRESS" ColumnName="ADRESS" />
+          <ScalarProperty Name="CLIENT_TYPE" ColumnName="CLIENT_TYPE" />
+          <ScalarProperty Name="CLIENT_GROUP_CODE" ColumnName="CLIENT_GROUP_CODE" />
+          <ScalarProperty Name="CLIENT_CODE" ColumnName="CLIENT_CODE" />
+          <ScalarProperty Name="CLIENT_NAME" ColumnName="CLIENT_NAME" />
+          <ScalarProperty Name="SALESMAN_NAME" ColumnName="SALESMAN_NAME" />
+          <ScalarProperty Name="SALESMAN_CODE" ColumnName="SALESMAN_CODE" />
+          <ScalarProperty Name="CREATE_DATETIME" ColumnName="CREATE_DATETIME" />
+          <ScalarProperty Name="DOCUMENT_NUMBER" ColumnName="DOCUMENT_NUMBER" />
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

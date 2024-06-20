@@ -1,0 +1,70 @@
+﻿@section styles{
+
+}
+
+<div class="modal fade" id="FilterTesdiqle" role="dialog" style="top:15%">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title m-auto primary-color">Tediq Melumatlari</h5>
+            </div>
+            <div class="modal-body">
+
+
+                <h6>Sayim sənəd tarix aralığı</h6>
+                <div class="row mb-1">
+                    <div class="col-6 mb-2">
+                        <input type="text" id="c_begin_date" value="@DateTime.Now.ToString("dd/MM/yyyy")" class="form-control " data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" data-mask />
+                    </div>
+                    <div class="col-6 mb-2">
+                        <input type="text" id="c_end_date" value="@DateTime.Now.ToString("dd/MM/yyyy")" class="form-control " data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" data-mask />
+                    </div>
+                </div>
+
+                <h6>Anbar Qaliq Hesablanacag Tarix</h6>
+                <div class="row mb-1">
+                    <div class="col-6 mb-2">
+                        <input type="text" id="c_onhand_date" value="@DateTime.Now.ToString("dd/MM/yyyy")" class="form-control " data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" data-mask />
+                    </div>
+
+                </div>
+                <h6>Sened Tesdiqlenecek Tarix</h6>
+                <div class="row mb-1">
+                    <div class="col-6 mb-2">
+                        <input type="text" id="c_confirm_date" value="@DateTime.Now.ToString("dd/MM/yyyy")" class="form-control " data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" data-mask />
+                    </div>
+
+                </div>
+
+
+                <h6>Anbar</h6>
+                <div class="row align-items-center mb-3">
+                    <div class="col-10">
+                        <input class="form-control mx-auto" id="whtesdiq" placeholder="Anbar qeyd edin"  />
+                    </div>
+                    
+                </div>
+                <div class="row align-items-center mb-2" id="control">
+                    <div class="col-6">
+                        <label class="container">
+                            Sayilmayan Mallar Sifirlansin?
+                            <input type="checkbox" checked="checked" id="item_count_status">
+                            <span class="checkmark"></span>
+                        </label>
+                    </div>                   
+                </div>
+            </div>
+            <div class="modal-footer">             
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Bağla</button>
+                <button type="button"id="redirect" class="btn btn-primary submit-btn" onclick="">Ok</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="loadPartial">
+
+</div>
+
+
+

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AZTRADE_MIQRAModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="IDE_ITEM_BARCODES">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+    </Key>
+    <Property Name="RECORD_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ITEM_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BARCODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UNIT" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="IDE_CLIENT">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+      <PropertyRef Name="CODE" />
+    </Key>
+    <Property Name="RECORD_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NAME_" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NAME2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ADRESS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ADRESS2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LOCATION_X" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LOCATION_Y" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GROUP_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TYPE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="IDE_CLIENT_GROUP">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+    </Key>
+    <Property Name="RECORD_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NAME_" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="IDE_ITEMS">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+      <PropertyRef Name="CODE" />
+    </Key>
+    <Property Name="RECORD_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NAME_" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NAME2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GROUP_CODE" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="MARK_CODE" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="IDE_ITEMS_GROUP">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+      <PropertyRef Name="CODE" />
+    </Key>
+    <Property Name="RECORD_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CODE" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NAME_" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="IDE_ITEMS_UNITSET">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+      <PropertyRef Name="ITEM_CODE" />
+      <PropertyRef Name="UNIT" />
+      <PropertyRef Name="UNITF" />
+      <PropertyRef Name="LINENR" />
+    </Key>
+    <Property Name="RECORD_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ITEM_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UNIT" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UNITF" Type="Double" Nullable="false" />
+    <Property Name="LINENR" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="IDE_MIQRAEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="IDE_ITEM_BARCODES" EntityType="Self.IDE_ITEM_BARCODES" />
+    <EntitySet Name="IDE_CLIENT" EntityType="Self.IDE_CLIENT" />
+    <EntitySet Name="IDE_CLIENT_GROUP" EntityType="Self.IDE_CLIENT_GROUP" />
+    <EntitySet Name="IDE_ITEMS" EntityType="Self.IDE_ITEMS" />
+    <EntitySet Name="IDE_ITEMS_GROUP" EntityType="Self.IDE_ITEMS_GROUP" />
+    <EntitySet Name="IDE_ITEMS_UNITSET" EntityType="Self.IDE_ITEMS_UNITSET" />
+  </EntityContainer>
+</Schema>

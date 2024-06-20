@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IDEProjectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="IDE_USERS">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+    </Key>
+    <Property Name="RECORD_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CREATE_DATETIME" Type="DateTime" Precision="3" />
+    <Property Name="UPDATE_DATETIME" Type="DateTime" Precision="3" />
+    <Property Name="LAST_LOGIN_TIME" Type="DateTime" Precision="3" />
+    <Property Name="NAME_SURNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="USER_NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PASSWORD" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ROLE" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="API_KEY" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="IDEEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="IDE_USERS" EntityType="Self.IDE_USERS" />
+    <EntitySet Name="IDE_TEST_COUNTING" EntityType="IDEProjectModel.IDE_TEST_COUNTING" />
+  </EntityContainer>
+  <EntityType Name="IDE_TEST_COUNTING">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+    </Key>
+    <Property Name="RECORD_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DOCUMENT_NUMBER" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CREATE_DATETIME" Type="DateTime" Precision="3" />
+    <Property Name="SALESMAN_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SALESMAN_NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CLIENT_NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CLIENT_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CLIENT_GROUP_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CLIENT_TYPE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ADRESS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ADRESS2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LOCATION_X" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LOCATION_Y" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="FICHENO" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TRCODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ITEM_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ITEM_NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ITEM_GROUP_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ITEM_MARK_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

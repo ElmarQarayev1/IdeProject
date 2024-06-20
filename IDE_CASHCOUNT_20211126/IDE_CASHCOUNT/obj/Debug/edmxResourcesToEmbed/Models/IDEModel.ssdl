@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AZTRADE_MIQRAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'AZTRADE_MIQRA.dbo.IDE_CLIENT' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="IDE_CLIENT">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+      <PropertyRef Name="CODE" />
+    </Key>
+    <Property Name="RECORD_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CODE" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NAME_" Type="nvarchar" MaxLength="50" />
+    <Property Name="NAME2" Type="nvarchar" MaxLength="50" />
+    <Property Name="ADRESS" Type="nvarchar" MaxLength="50" />
+    <Property Name="ADRESS2" Type="nvarchar" MaxLength="50" />
+    <Property Name="LOCATION_X" Type="nvarchar" MaxLength="50" />
+    <Property Name="LOCATION_Y" Type="nvarchar" MaxLength="50" />
+    <Property Name="GROUP_CODE" Type="nvarchar" MaxLength="50" />
+    <Property Name="TYPE" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'AZTRADE_MIQRA.dbo.IDE_CLIENT_GROUP' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="IDE_CLIENT_GROUP">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+    </Key>
+    <Property Name="RECORD_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CODE" Type="nvarchar" MaxLength="50" />
+    <Property Name="NAME_" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="IDE_ITEM_BARCODES">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+    </Key>
+    <Property Name="RECORD_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ITEM_CODE" Type="nvarchar" MaxLength="50" />
+    <Property Name="BARCODE" Type="nvarchar" MaxLength="50" />
+    <Property Name="UNIT" Type="nvarchar" MaxLength="25" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'AZTRADE_MIQRA.dbo.IDE_ITEMS' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="IDE_ITEMS">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+      <PropertyRef Name="CODE" />
+    </Key>
+    <Property Name="RECORD_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CODE" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NAME_" Type="nvarchar" MaxLength="50" />
+    <Property Name="NAME2" Type="nvarchar" MaxLength="50" />
+    <Property Name="GROUP_CODE" Type="nvarchar" MaxLength="10" />
+    <Property Name="MARK_CODE" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'AZTRADE_MIQRA.dbo.IDE_ITEMS_GROUP' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="IDE_ITEMS_GROUP">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+      <PropertyRef Name="CODE" />
+    </Key>
+    <Property Name="RECORD_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CODE" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="NAME_" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'AZTRADE_MIQRA.dbo.IDE_ITEMS_UNITSET' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="IDE_ITEMS_UNITSET">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+      <PropertyRef Name="ITEM_CODE" />
+      <PropertyRef Name="UNIT" />
+      <PropertyRef Name="UNITF" />
+      <PropertyRef Name="LINENR" />
+    </Key>
+    <Property Name="RECORD_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ITEM_CODE" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UNIT" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="UNITF" Type="float" Nullable="false" />
+    <Property Name="LINENR" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="AZTRADE_MIQRAModelStoreContainer">
+    <EntitySet Name="IDE_ITEM_BARCODES" EntityType="Self.IDE_ITEM_BARCODES" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IDE_CLIENT" EntityType="Self.IDE_CLIENT" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [IDE_CLIENT].[RECORD_ID] AS [RECORD_ID], 
+    [IDE_CLIENT].[CODE] AS [CODE], 
+    [IDE_CLIENT].[NAME_] AS [NAME_], 
+    [IDE_CLIENT].[NAME2] AS [NAME2], 
+    [IDE_CLIENT].[ADRESS] AS [ADRESS], 
+    [IDE_CLIENT].[ADRESS2] AS [ADRESS2], 
+    [IDE_CLIENT].[LOCATION_X] AS [LOCATION_X], 
+    [IDE_CLIENT].[LOCATION_Y] AS [LOCATION_Y], 
+    [IDE_CLIENT].[GROUP_CODE] AS [GROUP_CODE], 
+    [IDE_CLIENT].[TYPE] AS [TYPE]
+    FROM [dbo].[IDE_CLIENT] AS [IDE_CLIENT]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="IDE_CLIENT_GROUP" EntityType="Self.IDE_CLIENT_GROUP" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [IDE_CLIENT_GROUP].[RECORD_ID] AS [RECORD_ID], 
+    [IDE_CLIENT_GROUP].[CODE] AS [CODE], 
+    [IDE_CLIENT_GROUP].[NAME_] AS [NAME_]
+    FROM [dbo].[IDE_CLIENT_GROUP] AS [IDE_CLIENT_GROUP]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="IDE_ITEMS" EntityType="Self.IDE_ITEMS" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [IDE_ITEMS].[RECORD_ID] AS [RECORD_ID], 
+    [IDE_ITEMS].[CODE] AS [CODE], 
+    [IDE_ITEMS].[NAME_] AS [NAME_], 
+    [IDE_ITEMS].[NAME2] AS [NAME2], 
+    [IDE_ITEMS].[GROUP_CODE] AS [GROUP_CODE], 
+    [IDE_ITEMS].[MARK_CODE] AS [MARK_CODE]
+    FROM [dbo].[IDE_ITEMS] AS [IDE_ITEMS]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="IDE_ITEMS_GROUP" EntityType="Self.IDE_ITEMS_GROUP" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [IDE_ITEMS_GROUP].[RECORD_ID] AS [RECORD_ID], 
+    [IDE_ITEMS_GROUP].[CODE] AS [CODE], 
+    [IDE_ITEMS_GROUP].[NAME_] AS [NAME_]
+    FROM [dbo].[IDE_ITEMS_GROUP] AS [IDE_ITEMS_GROUP]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="IDE_ITEMS_UNITSET" EntityType="Self.IDE_ITEMS_UNITSET" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [IDE_ITEMS_UNITSET].[RECORD_ID] AS [RECORD_ID], 
+    [IDE_ITEMS_UNITSET].[ITEM_CODE] AS [ITEM_CODE], 
+    [IDE_ITEMS_UNITSET].[UNIT] AS [UNIT], 
+    [IDE_ITEMS_UNITSET].[UNITF] AS [UNITF], 
+    [IDE_ITEMS_UNITSET].[LINENR] AS [LINENR]
+    FROM [dbo].[IDE_ITEMS_UNITSET] AS [IDE_ITEMS_UNITSET]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

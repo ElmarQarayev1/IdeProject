@@ -1,0 +1,56 @@
+﻿
+@section styles{
+
+}
+
+<div class="modal fade" id="FilterModal" role="dialog" style="top:15%">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title m-auto primary-color">Filter</h5>
+            </div>
+            <div class="modal-body">
+
+
+                <h6>Sənəd tarix aralığı</h6>
+                <div class="row mb-1">
+                    <div class="col-6 mb-2">
+                        <input type="text" id="begin_date" value="@DateTime.Now.ToString("dd/MM/yyyy")" class="form-control " data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" data-mask />
+                    </div>
+                    <div class="col-6 mb-2">
+                        <input type="text" id="end_date" value="@DateTime.Now.ToString("dd/MM/yyyy")" class="form-control " data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" data-mask />
+                    </div>
+                </div>
+
+
+
+
+                <h6>Anbar</h6>
+                <div class="row align-items-center mb-3">
+                    <div class="col-10">
+                        <input class="form-control mx-auto" id="wh" placeholder="Anbar seçin" readonly />
+                    </div>
+                    <div class="col-2">
+                        <a class="btn btn-primary d-block" href="#" data-toggle="modal" onclick="callWarehouseManListPartial()">
+                            Seç
+                        </a>
+                    </div>
+                </div>
+
+
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Bağla</button>
+                <button type="button" class="btn btn-primary submit-btn" onclick="ShowFilterResult()">Ok</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="loadPartial">
+
+</div>
+
+
+

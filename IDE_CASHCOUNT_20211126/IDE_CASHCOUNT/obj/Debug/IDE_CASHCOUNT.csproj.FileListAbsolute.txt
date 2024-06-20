@@ -1,0 +1,844 @@
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.pdb
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/csc.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/csc.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/csc.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/csi.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/csi.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/csi.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.AppContext.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Console.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Net.Http.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.ValueTuple.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/vbc.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/vbc.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/vbc.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/BCrypt.Net.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/EntityFramework.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/Newtonsoft.Json.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Helpers.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Http.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Mvc.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Razor.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Webpages.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/BCrypt.Net.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/EntityFramework.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Razor.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Webpages.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Helpers.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Mvc.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/Newtonsoft.Json.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Http.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csprojAssemblyReference.cache
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CoreCompileInputs.cache
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CopyComplete
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.pdb
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csprojAssemblyReference.cache
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CoreCompileInputs.cache
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.pdb
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.pdb
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/csc.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/csc.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/csc.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/csi.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/csi.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/csi.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.AppContext.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Console.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Net.Http.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.ValueTuple.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/vbc.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/vbc.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/vbc.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/BCrypt.Net.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/EntityFramework.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/Newtonsoft.Json.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Helpers.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Http.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Mvc.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Razor.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/BCrypt.Net.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/EntityFramework.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Razor.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Helpers.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Mvc.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/Newtonsoft.Json.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Http.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CopyComplete
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.pdb
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/csc.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/csc.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/csc.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/csi.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/csi.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/csi.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.AppContext.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Console.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Net.Http.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.ValueTuple.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/vbc.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/vbc.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/vbc.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/BCrypt.Net.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/EntityFramework.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/Newtonsoft.Json.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/Swashbuckle.Core.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Helpers.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Http.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Mvc.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Razor.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/WebActivatorEx.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/BCrypt.Net.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/EntityFramework.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Razor.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Helpers.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Mvc.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/Newtonsoft.Json.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Http.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csprojAssemblyReference.cache
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CoreCompileInputs.cache
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CopyComplete
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT_07_01_2021 - Copy - Copy/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.pdb
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/Swashbuckle.Core.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDE_CASHCOUNT/IDE_CASHCOUNT/bin/WebActivatorEx.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll.config
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.pdb
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/csc.exe
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/csc.exe.config
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/csc.rsp
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/csi.exe
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/csi.exe.config
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/csi.rsp
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.CSharp.Core.targets
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.Managed.Core.targets
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.VisualBasic.Core.targets
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/Microsoft.Win32.Primitives.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.AppContext.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Collections.Immutable.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Console.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.StackTrace.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Globalization.Calendars.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.ZipFile.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.Primitives.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Net.Http.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Net.Sockets.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Reflection.Metadata.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Encoding.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Primitives.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Text.Encoding.CodePages.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Threading.Tasks.Extensions.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.ValueTuple.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Xml.ReaderWriter.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Xml.XmlDocument.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.XDocument.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/vbc.exe
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/vbc.exe.config
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/vbc.rsp
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe.config
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/BCrypt.Net.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/EntityFramework.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/Microsoft.Web.Infrastructure.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/Newtonsoft.Json.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/Swashbuckle.Core.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Helpers.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Http.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Mvc.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Razor.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Webpages.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/WebActivatorEx.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/BCrypt.Net.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/EntityFramework.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Razor.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Webpages.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Helpers.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Mvc.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/Newtonsoft.Json.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Http.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.AssemblyReference.cache
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CoreCompileInputs.cache
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CopyComplete
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.dll
+G:/My Drive/Shams/IDE_CASHCOUNT(26.11.2021)/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.pdb
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll.config
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.pdb
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.exe
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.exe.config
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.rsp
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.exe
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.exe.config
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.rsp
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CSharp.Core.targets
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Managed.Core.targets
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.VisualBasic.Core.targets
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Win32.Primitives.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.AppContext.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Collections.Immutable.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Console.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.StackTrace.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Globalization.Calendars.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.ZipFile.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.Primitives.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Net.Http.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Net.Sockets.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Reflection.Metadata.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Encoding.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Primitives.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Text.Encoding.CodePages.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Threading.Tasks.Extensions.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.ValueTuple.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.ReaderWriter.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XmlDocument.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.XDocument.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.exe
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.exe.config
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.rsp
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe.config
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/BCrypt.Net.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Web.Infrastructure.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Swashbuckle.Core.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Helpers.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Mvc.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Razor.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/WebActivatorEx.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/BCrypt.Net.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Razor.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Helpers.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Mvc.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.AssemblyReference.cache
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CoreCompileInputs.cache
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CopyComplete
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.dll
+G:/My Drive/Shams/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.pdb
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll.config
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.pdb
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.exe
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.exe.config
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.rsp
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.exe
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.exe.config
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.rsp
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Managed.Core.targets
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Win32.Primitives.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.AppContext.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Collections.Immutable.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Console.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Globalization.Calendars.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.ZipFile.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Net.Http.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Net.Sockets.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Reflection.Metadata.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.ValueTuple.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XmlDocument.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.exe
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.exe.config
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.rsp
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe.config
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/BCrypt.Net.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Web.Infrastructure.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Swashbuckle.Core.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Helpers.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Mvc.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Razor.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/WebActivatorEx.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/BCrypt.Net.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Razor.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Helpers.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Mvc.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.AssemblyReference.cache
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CoreCompileInputs.cache
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CopyComplete
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.dll
+D:/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.pdb
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll.config
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.pdb
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.exe
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.exe.config
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.rsp
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.exe
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.exe.config
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.rsp
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Win32.Primitives.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.AppContext.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Collections.Immutable.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Console.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Globalization.Calendars.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.ZipFile.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Net.Http.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Net.Sockets.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Reflection.Metadata.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.ValueTuple.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.exe
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.exe.config
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.rsp
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe.config
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/BCrypt.Net.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Web.Infrastructure.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Swashbuckle.Core.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Helpers.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Mvc.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Razor.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/WebActivatorEx.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/BCrypt.Net.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Razor.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Helpers.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Mvc.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.AssemblyReference.cache
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CoreCompileInputs.cache
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CopyComplete
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.dll
+D:/Şəms WEB Layihə/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.pdb
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll.config
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.pdb
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.exe
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.exe.config
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.rsp
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.exe
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.exe.config
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.rsp
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Managed.Core.targets
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Win32.Primitives.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.AppContext.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Collections.Immutable.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Console.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Globalization.Calendars.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.Compression.ZipFile.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Net.Http.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Net.Sockets.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Reflection.Metadata.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.ValueTuple.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XmlDocument.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.exe
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.exe.config
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.rsp
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe.config
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/BCrypt.Net.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Web.Infrastructure.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Swashbuckle.Core.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Helpers.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Mvc.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Razor.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/WebActivatorEx.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/BCrypt.Net.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Razor.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Deployment.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Webpages.Razor.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Helpers.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Mvc.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.AssemblyReference.cache
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CoreCompileInputs.cache
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CopyComplete
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.dll
+D:/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.pdb
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/IDE_CASHCOUNT.pdb
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.exe
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.exe.config
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csc.rsp
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.exe
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.exe.config
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/csi.rsp
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Managed.Core.CurrentVersions.targets
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Buffers.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Collections.Immutable.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Memory.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Numerics.Vectors.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Reflection.Metadata.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.exe
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.exe.config
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/vbc.rsp
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/roslyn/VBCSCompiler.exe.config
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/BCrypt.Net.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Authorization.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Http.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Http.Features.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Routing.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.WebUtilities.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.DependencyInjection.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.DependencyModel.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.ObjectPool.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.Options.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.Primitives.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Net.Http.Headers.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Web.Infrastructure.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.Bson.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Swashbuckle.Core.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Buffers.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.ComponentModel.Annotations.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Memory.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Numerics.Vectors.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Runtime.CompilerServices.Unsafe.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Text.Encodings.Web.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Threading.Tasks.Extensions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Helpers.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Mvc.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Razor.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.WebPages.Deployment.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.WebPages.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.WebPages.Razor.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/WebActivatorEx.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/BCrypt.Net.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/EntityFramework.SqlServer.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.Bson.pdb
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.Bson.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Buffers.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Numerics.Vectors.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Runtime.CompilerServices.Unsafe.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Memory.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Threading.Tasks.Extensions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Mvc.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.DependencyInjection.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.Logging.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.ObjectPool.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.Primitives.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Http.Features.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.Configuration.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.FileProviders.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.Hosting.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Extensions.Options.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Authorization.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.Net.Http.Headers.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Text.Encodings.Web.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Http.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Authentication.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Authorization.Policy.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Hosting.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Http.Extensions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Routing.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Mvc.Abstractions.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Routing.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.WebUtilities.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Http.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Authentication.Core.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.AspNetCore.Mvc.Core.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Razor.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.WebPages.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.WebPages.Deployment.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.WebPages.Razor.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Helpers.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Newtonsoft.Json.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Net.Http.Formatting.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/System.Web.Http.WebHost.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.CopyComplete
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.pdb
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDE_CASHCOUNT_20211126/IDE_CASHCOUNT/obj/Debug/IDE_CASHCOUNT.csproj.AssemblyReference.cache

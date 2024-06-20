@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="IDEProjectModelStoreContainer" CdmEntityContainer="IDEEntities">
+    <EntitySetMapping Name="IDE_USERS">
+      <EntityTypeMapping TypeName="IDEProjectModel.IDE_USERS">
+        <MappingFragment StoreEntitySet="IDE_USERS">
+          <ScalarProperty Name="LICENSE_KEY" ColumnName="LICENSE_KEY" />
+          <ScalarProperty Name="MAC_ADRESS" ColumnName="MAC_ADRESS" />
+          <ScalarProperty Name="ROLE" ColumnName="ROLE" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="USER_NAME" ColumnName="USER_NAME" />
+          <ScalarProperty Name="NAME_SURNAME" ColumnName="NAME_SURNAME" />
+          <ScalarProperty Name="UPDATE_DATETIME" ColumnName="UPDATE_DATETIME" />
+          <ScalarProperty Name="CREATE_DATETIME" ColumnName="CREATE_DATETIME" />
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

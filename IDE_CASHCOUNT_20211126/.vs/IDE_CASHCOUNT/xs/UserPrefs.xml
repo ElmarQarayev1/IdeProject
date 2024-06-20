@@ -1,0 +1,98 @@
+﻿<Properties StartupConfiguration="{4DE7046E-F3B7-4033-AA05-02AA49E87BF1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IDE_CASHCOUNT/Views/ProfilSettings/Index.cshtml">
+    <Files>
+      <File FileName="IDE_CASHCOUNT/App_Start/RouteConfig.cs" />
+      <File FileName="IDE_CASHCOUNT/Common/Filters/MyAutorizeAttribute.cs" />
+      <File FileName="IDE_CASHCOUNT/Controllers/HomeController.cs" />
+      <File FileName="IDE_CASHCOUNT/Controllers/ProfilSettingsController.cs" />
+      <File FileName="IDE_CASHCOUNT/Views/Shared/_Layout.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/Security/Login.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/Home/Index.cshtml" />
+      <File FileName="IDE_CASHCOUNT/App_Start/SwaggerConfig.cs" />
+      <File FileName="IDE_CASHCOUNT/App_Start/WebApiConfig.cs" />
+      <File FileName="IDE_CASHCOUNT/Views/InvoiceDocuments/Index.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/InvoiceControl/Details.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/ClientsReport/Index.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/ClientsReport/Details.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/CustomerBalances/CustomerBalancesFilterPartial.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/CustomerBalances/Index.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/Home/ClientsListPartial.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/Home/SaleControlClientsListPartial.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/Home/SalesmansListPartial.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/Home/WarehouseListPartial.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/InvoiceControl/Index.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/InvoiceControl/InvoiceControlFilterPartial.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/InvoiceDocuments/InvoiceDetails.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/InvoiceDocuments/InvoiceFilterPartial.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/InvoiceDocuments/ShowMapPartal.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/ProfilSettings/Index.cshtml" Line="16" Column="1" />
+      <File FileName="IDE_CASHCOUNT/Views/Users/AddOrEditPartial.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/WarehouseCount/Details.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/WarehouseCount/DetailsTesdiqleMallar.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/WarehouseCount/Index.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/WarehouseCount/WarehouseCountFilterPartial.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/WarehouseCount/WarehouseCountFilterTesdiqle.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Views/WarehouseCountConfirm/Index.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Common/Security/SecurityService.cs" />
+      <File FileName="IDE_CASHCOUNT/Controllers/SecurityController.cs" />
+      <File FileName="IDE_CASHCOUNT/Views/Users/Index.cshtml" />
+      <File FileName="IDE_CASHCOUNT/Controllers/UsersController.cs" />
+      <File FileName="IDE_CASHCOUNT/Common/Security/LicenseProvider.cs" />
+      <File FileName="IDE_CASHCOUNT/Common/Security/Hashing.cs" />
+      <File FileName="IDE_CASHCOUNT/Common/Security/UserRoleProvider.cs" />
+      <File FileName="IDE_CASHCOUNT/Common/Security/EncryptDecrypt.cs" />
+      <File FileName="IDE_CASHCOUNT/Common/Filters/IDEAuthorizeAttribute.cs" />
+      <File FileName="IDE_CASHCOUNT/Controllers/ClientsReportController.cs" Line="54" Column="1" />
+      <File FileName="IDE_CASHCOUNT/Views/web.config" />
+      <File FileName="IDE_CASHCOUNT/Controllers/WarehouseCountController.cs" />
+      <File FileName="IDE_CASHCOUNT/Models/ViewModels/IDE_MIQRA/ClientsAktViewModel.cs" />
+      <File FileName="IDE_CASHCOUNT/Models/Entities/Procedurs/IDE_PROCEDURE_CLIENTS_AKT.cs" />
+      <File FileName="IDE_CASHCOUNT/Models/Entities/IDE_ITEMS_MARK.cs" />
+      <File FileName="IDE_CASHCOUNT/Common/WebApi/APIAutorizeAttribute.cs" />
+      <File FileName="IDE_CASHCOUNT/Controllers/CustomerBalancesController.cs" />
+      <File FileName="IDE_CASHCOUNT/Common/Utils/DeviceProparties.cs" />
+      <File FileName="IDE_CASHCOUNT/Models/ViewModels/IDE_MIQRA/InvoiceFilterViewModel.cs" />
+      <File FileName="IDE_CASHCOUNT/Models/ViewModels/UserViewModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IDE_CASHCOUNT" expanded="True" selected="True">
+            <Node name="IDE_CASHCOUNT" expanded="True">
+              <Node name="App_Data" expanded="True" />
+              <Node name="App_Start" expanded="True" />
+              <Node name="Common" expanded="True">
+                <Node name="Filters" expanded="True" />
+                <Node name="Security" expanded="True" />
+                <Node name="Utils" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Client" expanded="True" />
+                <Node name="ClientsReport" expanded="True" />
+                <Node name="CustomerBalances" expanded="True" />
+                <Node name="Login" expanded="True" />
+                <Node name="ProfilSettings" expanded="True" />
+                <Node name="Security" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Users" expanded="True" />
+                <Node name="WarehouseCount" expanded="True" />
+                <Node name="WarehouseCountConfirm" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IDE__CASHCOUNT PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,146 @@
+﻿/***GENERAL
+********************/
+a{
+    cursor:pointer;
+}
+
+
+/*** validation error */
+.field-validation-error {
+    color: #e80c4d;
+    font-weight: bold;
+}
+
+
+input.input-validation-error {
+    border: 1px solid #e80c4d;
+}
+
+/****   MY COLORS  *****/
+.mbg-primary {
+    background-color: #17a2b8;
+    color:white;
+}
+
+.mbg-primary:hover {
+        background-color: #1582BB;
+        color: white;
+
+}
+
+.primary-color {
+    color: #17a2b8!important;
+}
+
+/**Datatable styles**/
+.dt-optional-btn {
+    width:20px;
+}
+
+/**Buttons****/
+.btn-primary {
+    background-color: #17a2b8 !important;
+    border-color: #17a2b8 !important;
+}
+/**CHANGING DEFAULT STYLES*/
+.sidebar-dark-primary .nav-sidebar.nav-legacy > .nav-item > .nav-link.active, .sidebar-light-primary .nav-sidebar.nav-legacy > .nav-item > .nav-link.active {
+    border-color: #17a2b8;
+}
+
+/**pagination**/
+a,.page-link {
+    color: #17a2b8;
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+/*Responsive table plus style*/
+td.dtr-control.sorting_1:before {
+    background: #17a2b8!important;
+}
+
+/*Content Header*/
+.breadcrumb {
+    font-size: 18px;
+}
+
+
+
+
+
+/***SCROLL
+********************/
+::-webkit-scrollbar {
+    width: .5rem;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+
+/***NAVBAR
+********************/
+
+/*.brand-link {
+    padding: 0.8125rem 0;
+    align-items: center;
+}
+
+    .brand-link .brand-image {
+        opacity: .8;
+        border-radius: 10%;
+    }
+
+.brand-text span {
+    text-align: center;
+}
+
+    .brand-text span:first-child {
+        line-height: 2px;
+    }*/
+
+
+@media(max-width:870px) {
+
+}
+/*** Dropdown ***/
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #17a2b8;
+}
+
+
+/**Datepicker**/
+
+.ui-widget-header {
+    background: #17a2b8 !important;
+    border: #17a2b8 !important;
+}
+
+
+/****Modal ****/
+
+.modal-dialog {
+    overflow-y: initial !important
+}
+
+.modal-body {
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+}
+

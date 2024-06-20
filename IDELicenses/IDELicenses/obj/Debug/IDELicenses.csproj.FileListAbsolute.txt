@@ -1,0 +1,303 @@
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/IDELicenses.dll.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/IDELicenses.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/IDELicenses.pdb
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/csc.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/csc.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/csc.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/csi.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/csi.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/csi.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.AppContext.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Console.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.IO.Compression.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Net.Http.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.ValueTuple.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/vbc.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/vbc.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/vbc.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/VBCSCompiler.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csprojAssemblyReference.cache
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.CoreCompileInputs.cache
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.CopyComplete
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/obj/Debug/IDELicenses.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDEProject/IDELicenses/IDELicenses/obj/Debug/IDELicenses.pdb
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/IDELicenses.dll.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/IDELicenses.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/IDELicenses.pdb
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csc.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csc.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csc.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csi.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csi.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csi.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.AppContext.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Console.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.IO.Compression.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Net.Http.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.ValueTuple.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/vbc.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/vbc.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/vbc.rsp
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/VBCSCompiler.exe
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csprojAssemblyReference.cache
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.CoreCompileInputs.cache
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.CopyComplete
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/obj/Debug/IDELicenses.dll
+C:/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/obj/Debug/IDELicenses.pdb
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/IDELicenses.dll.config
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/IDELicenses.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/IDELicenses.pdb
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csc.exe
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csc.exe.config
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csc.rsp
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csi.exe
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csi.exe.config
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/csi.rsp
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CSharp.Core.targets
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Managed.Core.targets
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.VisualBasic.Core.targets
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Win32.Primitives.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.AppContext.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Collections.Immutable.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Console.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.StackTrace.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Globalization.Calendars.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.IO.Compression.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.IO.Compression.ZipFile.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.IO.FileSystem.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.IO.FileSystem.Primitives.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Net.Http.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Net.Sockets.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Reflection.Metadata.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Encoding.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Primitives.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Text.Encoding.CodePages.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Threading.Tasks.Extensions.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.ValueTuple.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Xml.ReaderWriter.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XmlDocument.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XPath.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XPath.XDocument.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/vbc.exe
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/vbc.exe.config
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/vbc.rsp
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/VBCSCompiler.exe
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/roslyn/VBCSCompiler.exe.config
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.AssemblyReference.cache
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.CoreCompileInputs.cache
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.CopyComplete
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/obj/Debug/IDELicenses.dll
+H:/IDE Soft Old Server/Users/Shems Mehreliyeva/Desktop/Shams/IDE_WEB/IDELicenses/IDELicenses/obj/Debug/IDELicenses.pdb
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/IDELicenses.dll.config
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/IDELicenses.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/IDELicenses.pdb
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/csc.exe
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/csc.exe.config
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/csc.rsp
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/csi.exe
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/csi.exe.config
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/csi.rsp
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CSharp.Core.targets
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Managed.Core.targets
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.VisualBasic.Core.targets
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Win32.Primitives.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.AppContext.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Collections.Immutable.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Console.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.StackTrace.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Globalization.Calendars.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.IO.Compression.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.IO.Compression.ZipFile.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.IO.FileSystem.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.IO.FileSystem.Primitives.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Net.Http.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Net.Sockets.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Reflection.Metadata.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Encoding.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Primitives.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Text.Encoding.CodePages.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Threading.Tasks.Extensions.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.ValueTuple.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Xml.ReaderWriter.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XmlDocument.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XPath.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XPath.XDocument.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/vbc.exe
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/vbc.exe.config
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/vbc.rsp
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/VBCSCompiler.exe
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/roslyn/VBCSCompiler.exe.config
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:/My Drive/Shams/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.AssemblyReference.cache
+G:/My Drive/Shams/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.CoreCompileInputs.cache
+G:/My Drive/Shams/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.CopyComplete
+G:/My Drive/Shams/IDELicenses/IDELicenses/obj/Debug/IDELicenses.dll
+G:/My Drive/Shams/IDELicenses/IDELicenses/obj/Debug/IDELicenses.pdb
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/IDELicenses.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/IDELicenses.pdb
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/csc.exe
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/csc.exe.config
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/csc.rsp
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/csi.exe
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/csi.exe.config
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/csi.rsp
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Managed.Core.CurrentVersions.targets
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.AppContext.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Buffers.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Collections.Immutable.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Console.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Globalization.Calendars.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.IO.Compression.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.IO.FileSystem.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Memory.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Net.Http.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Net.Sockets.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Numerics.Vectors.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Reflection.Metadata.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.ValueTuple.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XPath.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/vbc.exe
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/vbc.exe.config
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/vbc.rsp
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/VBCSCompiler.exe
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/roslyn/VBCSCompiler.exe.config
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/EntityFramework.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/EntityFramework.SqlServer.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/EntityFramework.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/EntityFramework.SqlServer.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/obj/Debug/IDELicenses.csproj.CopyComplete
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/obj/Debug/IDELicenses.dll
+/Users/elmar/Desktop/ShamsWEBLayiheAztrade/IDELicenses/IDELicenses/obj/Debug/IDELicenses.pdb

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IDEProjectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="IDE_USERS">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+    </Key>
+    <Property Name="RECORD_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CREATE_DATETIME" Type="DateTime" Precision="3" />
+    <Property Name="UPDATE_DATETIME" Type="DateTime" Precision="3" />
+    <Property Name="LAST_LOGIN_TIME" Type="DateTime" Precision="3" />
+    <Property Name="NAME_SURNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="USER_NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PASSWORD" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ROLE" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="API_KEY" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="IDEEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="IDE_USERS" EntityType="Self.IDE_USERS" />
+    <EntitySet Name="IDE_TEST" EntityType="IDEProjectModel.IDE_TEST" />
+  </EntityContainer>
+  <EntityType Name="IDE_TEST">
+    <Key>
+      <PropertyRef Name="RECORD_ID" />
+    </Key>
+    <Property Name="RECORD_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="API_KEY" Type="Guid" />
+    <Property Name="PRODUCT_NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PRICE" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="ROLE" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="ROLE_1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

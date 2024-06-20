@@ -1,0 +1,181 @@
+﻿@model IDE_CASHCOUNT.Models.ViewModels.UserViewModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8">
+    <title>IDE | Giriş</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--ICON-->
+    <link rel="icon" href="~/Content/files/images/logos/ide_logo.ico" type="image/x-icon">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/Content/lib/admin-lte/plugins/fontawesome-free/css/all.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <!-- icheck bootstrap -->
+    <link rel="stylesheet" href="~/Content/lib/admin-lte/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/Content/lib/admin-lte/dist/css/adminlte.min.css">
+    <!-- Google Font: Source Sans Pro -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+
+    <!-- Custom style -->
+    <link rel="stylesheet" href="~/Content/css/style.css">
+    <style>
+        .notifyjs-corner {
+            left: 50% !important;
+            transform: translate(-50%,0%);
+        }
+        .login-logo img {
+            width: 350px;
+            height:auto;
+        }
+    </style>
+</head>
+<body class="hold-transition login-page">
+    <div class="login-box">
+        <div class="login-logo">
+            @{
+                string firm_logo =  System.Configuration.ConfigurationManager.AppSettings["LogoUrl"];
+                if (firm_logo != "")
+                {
+                    string full_url = @"../Content/webFiles/logo/"+firm_logo;
+                    <img src="@full_url"  />
+                }
+                else
+                {
+                    <img src="~/Content/files/images/logos/default-logo.png"  />
+                }
+
+            }
+
+            @*<a href="#"><b>IDE</b><span style="color:#17a2b8">Soft</span></a>*@
+        </div>
+        <!-- /.login-logo -->
+        <div class="card">
+            <div class="card-body login-card-body">
+                <p class="login-box-msg">Sessiyanıza başlamaq üçün daxil olun</p>
+
+                @using (Ajax.BeginForm("Login", "Security", new AjaxOptions { HttpMethod = "POST" }))
+                {
+
+                    <div class="input-group mb-3">
+                        @Html.TextBoxFor(m => m.USER_NAME, new { @class = "form-control form-control-user", placeholder = "İstifadəçi Adı" })
+
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-user"></span>
+                            </div>
+                        </div>
+                    </div>
+                    @Html.ValidationMessageFor(m => m.USER_NAME)
+                    <div class="input-group mb-3">
+                        @Html.PasswordFor(m => m.PASSWORD, new { @class = "form-control form-control-user", placeholder = "Şifrə" })
+
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-lock"></span>
+                            </div>
+                        </div>
+                    </div>
+                    @Html.ValidationMessageFor(m => m.PASSWORD)
+                    <div class="row">
+                        <div class="col-8">
+                        </div>
+                        <!-- /.col -->
+                        <div class="col-4 ">
+                            <button type="submit" class="btn mbg-primary  btn-block">Giriş et</button>
+                        </div>
+                        <!-- /.col -->
+                    </div>
+                }
+
+
+
+            </div>
+            <!-- /.login-card-body -->
+        </div>
+    </div>
+    <!-- /.login-box -->
+    <!-- jQuery -->
+    <script src="~/Content/lib/admin-lte/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="~/Content/lib/admin-lte/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/Content/lib/admin-lte/dist/js/adminlte.min.js"></script>
+    <script src="~/Content/lib/validation/jquery.validate.min.js"></script>
+    <script src="~/Content/lib/validation/jquery.validate.unobtrusive.js"></script>
+    <!-- Notify alert-->
+    <script src="~/Content/lib/notify/notify.js"></script>
+    @if (ViewBag.LoginMessage != null)
+    {
+        <script type="text/javascript" charset="utf-8">
+
+              $.notify("@Html.Raw(ViewBag.LoginMessage)", { position: "top center", autoHideDelay: 8000 });
+
+        </script>
+    }
+    @if (ViewBag.LoginLicense != null)
+    {
+
+        string[] license = ViewBag.LoginLicense.Split(',');
+
+
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="top:20%">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Lisenziyanız yoxdur!</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="d-flex flex-column mb-2">
+                            <span class="primary-color">Mac Adress <button class="btn btn-light btn-sm ml-3 p-0 px-1" type="button" onclick="copy_data(select_txt_1)"> <i class="fas fa-copy mr-2"></i>Kopyala</button></span>
+
+                            <span style="font-size:13px"><span id="select_txt_1">@license[1]</span></span>
+
+                        </div>
+                        <div class="d-flex flex-column mb-2" style="overflow:hidden">
+                            <span class="primary-color">Lisenziya açarı <button class="btn btn-light btn-sm ml-3 p-0 px-1" type="button" onclick="copy_data(select_txt_2)"> <i class="fas fa-copy mr-2"></i>Kopyala</button></span>
+
+                            <span style="font-size:13px"><span id="select_txt_2">@license[0]</span></span>
+                  
+
+                        </div>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Bağla</button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $("#exampleModal").modal("show");
+            })
+
+            function copy_data(containerid) {
+                var range = document.createRange();
+                range.selectNode(containerid); //changed here
+                window.getSelection().removeAllRanges();
+                window.getSelection().addRange(range);
+                document.execCommand("copy");
+                window.getSelection().removeAllRanges();
+
+                $.notify("Kopyalandı", { position: "top center", className: "success" });
+            }
+        </script>
+    }
+
+</body>
+</html>

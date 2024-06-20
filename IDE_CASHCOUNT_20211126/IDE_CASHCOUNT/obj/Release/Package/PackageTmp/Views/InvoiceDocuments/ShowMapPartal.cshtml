@@ -1,0 +1,9 @@
+﻿
+@model IDE_CASHCOUNT.Models.ViewModels.IDE_MIQRA.MapViewModel
+    <div class="modal-body">
+        <input type="hidden" id="client_x"/ value="@Model.CLIENT_LOCATION_X">
+        <input type="hidden" id="client_y"/ value="@Model.CLIENT_LOCATION_Y">
+        <input type="hidden" id="invoice_x"/ value="@Model.LOCATION_X">
+        <input type="hidden" id="invoice_y"/ value="@Model.LOCATION_Y">
+        <div id="myMap" style="width: 100%; height: 500px"></div>
+    </div>

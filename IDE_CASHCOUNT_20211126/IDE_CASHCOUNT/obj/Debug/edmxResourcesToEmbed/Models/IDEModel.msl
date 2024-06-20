@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AZTRADE_MIQRAModelStoreContainer" CdmEntityContainer="IDE_MIQRAEntities">
+    <EntitySetMapping Name="IDE_ITEM_BARCODES">
+      <EntityTypeMapping TypeName="AZTRADE_MIQRAModel.IDE_ITEM_BARCODES">
+        <MappingFragment StoreEntitySet="IDE_ITEM_BARCODES">
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+          <ScalarProperty Name="ITEM_CODE" ColumnName="ITEM_CODE" />
+          <ScalarProperty Name="BARCODE" ColumnName="BARCODE" />
+          <ScalarProperty Name="UNIT" ColumnName="UNIT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IDE_CLIENT">
+      <EntityTypeMapping TypeName="AZTRADE_MIQRAModel.IDE_CLIENT">
+        <MappingFragment StoreEntitySet="IDE_CLIENT">
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+          <ScalarProperty Name="CODE" ColumnName="CODE" />
+          <ScalarProperty Name="NAME_" ColumnName="NAME_" />
+          <ScalarProperty Name="NAME2" ColumnName="NAME2" />
+          <ScalarProperty Name="ADRESS" ColumnName="ADRESS" />
+          <ScalarProperty Name="ADRESS2" ColumnName="ADRESS2" />
+          <ScalarProperty Name="LOCATION_X" ColumnName="LOCATION_X" />
+          <ScalarProperty Name="LOCATION_Y" ColumnName="LOCATION_Y" />
+          <ScalarProperty Name="GROUP_CODE" ColumnName="GROUP_CODE" />
+          <ScalarProperty Name="TYPE" ColumnName="TYPE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IDE_CLIENT_GROUP">
+      <EntityTypeMapping TypeName="AZTRADE_MIQRAModel.IDE_CLIENT_GROUP">
+        <MappingFragment StoreEntitySet="IDE_CLIENT_GROUP">
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+          <ScalarProperty Name="CODE" ColumnName="CODE" />
+          <ScalarProperty Name="NAME_" ColumnName="NAME_" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IDE_ITEMS">
+      <EntityTypeMapping TypeName="AZTRADE_MIQRAModel.IDE_ITEMS">
+        <MappingFragment StoreEntitySet="IDE_ITEMS">
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+          <ScalarProperty Name="CODE" ColumnName="CODE" />
+          <ScalarProperty Name="NAME_" ColumnName="NAME_" />
+          <ScalarProperty Name="NAME2" ColumnName="NAME2" />
+          <ScalarProperty Name="GROUP_CODE" ColumnName="GROUP_CODE" />
+          <ScalarProperty Name="MARK_CODE" ColumnName="MARK_CODE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IDE_ITEMS_GROUP">
+      <EntityTypeMapping TypeName="AZTRADE_MIQRAModel.IDE_ITEMS_GROUP">
+        <MappingFragment StoreEntitySet="IDE_ITEMS_GROUP">
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+          <ScalarProperty Name="CODE" ColumnName="CODE" />
+          <ScalarProperty Name="NAME_" ColumnName="NAME_" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IDE_ITEMS_UNITSET">
+      <EntityTypeMapping TypeName="AZTRADE_MIQRAModel.IDE_ITEMS_UNITSET">
+        <MappingFragment StoreEntitySet="IDE_ITEMS_UNITSET">
+          <ScalarProperty Name="RECORD_ID" ColumnName="RECORD_ID" />
+          <ScalarProperty Name="ITEM_CODE" ColumnName="ITEM_CODE" />
+          <ScalarProperty Name="UNIT" ColumnName="UNIT" />
+          <ScalarProperty Name="UNITF" ColumnName="UNITF" />
+          <ScalarProperty Name="LINENR" ColumnName="LINENR" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

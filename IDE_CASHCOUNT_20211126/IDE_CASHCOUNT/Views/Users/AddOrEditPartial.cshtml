@@ -1,0 +1,73 @@
+﻿@model IDE_CASHCOUNT.Models.ViewModels.UserViewModel
+
+
+
+@*@using (Ajax.BeginForm("Index", "Users", new AjaxOptions { HttpMethod = "POST" }))
+    {
+        <div class="modal-body">
+
+            @Html.HiddenFor(m => m.RECORD_ID)
+            <div class="form-group">
+                @Html.LabelFor(m => m.NAME_SURNAME)
+                @Html.TextBoxFor(m => m.NAME_SURNAME, new { @class = "form-control mb-2", placeholder = "Ad Soyad" })
+                @Html.ValidationMessageFor(m => m.NAME_SURNAME)
+                @Html.LabelFor(m => m.USER_NAME)
+                @Html.TextBoxFor(m => m.USER_NAME, new { @class = "form-control mb-2", placeholder = "Istifadəçi Adı" })
+                @Html.ValidationMessageFor(m => m.USER_NAME)
+                @Html.LabelFor(m => m.PASSWORD)
+                @Html.PasswordFor(m => m.PASSWORD, new { @class = "form-control mb-2", placeholder = "Şifrə" })
+                @Html.ValidationMessageFor(m => m.PASSWORD)
+            </div>
+
+        </div>
+        <div class="modal-footer">
+            <input type="submit" class="btn btn-outline-info" value="Yadda saxla">
+            <a href="#" id="btnSubmit" type="submmit" class="btn btn-outline-info">Yadda Saxla</a>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Bağla</button>
+        </div>
+    }*@
+
+@{
+    Layout = null;
+}
+
+@using (Html.BeginForm("AddOrEdit", "Users", FormMethod.Post, new { onsubmit = "return SubmitForm(this)" }))
+{
+    <div class="modal-header">
+        <h5 class="modal-title m-primary-color ">@if (Model.RECORD_ID < 0)
+        {<span>Yeni İstifadəçi</span>}
+        else
+        { <span>@Model.USER_NAME</span>} </h5>
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="modal-body">
+
+        @Html.HiddenFor(m => m.RECORD_ID)
+        <div class="form-group">
+            @Html.LabelFor(m => m.NAME_SURNAME)
+            @Html.TextBoxFor(m => m.NAME_SURNAME, new { @class = "form-control mb-2", placeholder = "Ad Soyad" })
+            @Html.ValidationMessageFor(m => m.NAME_SURNAME)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.USER_NAME)
+            @Html.TextBoxFor(m => m.USER_NAME, new { @class = "form-control mb-2", placeholder = "Istifadəçi Adı" })
+            @Html.ValidationMessageFor(m => m.USER_NAME)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.PASSWORD)
+            @Html.PasswordFor(m => m.PASSWORD, new { @class = "form-control mb-2", placeholder = "Şifrə" })
+            @Html.ValidationMessageFor(m => m.PASSWORD)
+        </div>
+
+
+    </div>
+    <div class="modal-footer">
+        <div class="form-group">
+            <input type="submit" value="Yadda saxla" class="btn btn-outline-info" />
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Bağla</button>
+        </div>
+    </div>
+}

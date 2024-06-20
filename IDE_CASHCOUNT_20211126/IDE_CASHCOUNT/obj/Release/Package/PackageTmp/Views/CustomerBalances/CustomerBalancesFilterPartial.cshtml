@@ -1,0 +1,56 @@
+﻿@section styles{
+
+}
+
+<div class="modal fade" id="FilterModal" role="dialog" style="top:15%">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title m-auto primary-color">Filter</h5>
+            </div>
+            <div class="modal-body">
+
+
+                <h6>Müştəri</h6>
+                <div class="row align-items-center">
+                    <div class="col-10">
+                        <input class="form-control mx-auto" id="clnt" placeholder="Müştəri seçin" readonly />
+
+                    </div>
+                    <div class="col-2">
+                        <a class="btn btn-primary d-block" href="#" data-toggle="modal" onclick="callClientsListPartial()">
+                            Seç
+                        </a>
+                    </div>
+                </div>
+
+
+
+                @*Date
+                    <div class="form-group">
+                        <label>Date:</label>
+                        <div class="input-group date" id="reservationdate" data-target-input="nearest">
+                            <input type="text" class="form-control datetimepicker-input" data-target="#reservationdate" data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" data-mask />
+                            <div class="input-group-append" data-target="#reservationdate" data-toggle="datetimepicker">
+                                <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                            </div>
+                        </div>
+                    </div>*@
+                @*<input type="text" id="datepicker" value="@DateTime.Now.ToString("dd-MM-yyyy")" readonly class="form-control col-sm-8 mx-auto mb-2" />
+                    <input class="form-control mx-auto col-sm-8 mb-2" id="slsm" placeholder="Təmsilçi seçin" readonly />
+                    <a class="btn btn-primary col-sm-2 m-auto" style="display:block" href="#" data-toggle="modal" data-target="#TestModal">
+                        Seç
+                    </a>*@
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Bağla</button>
+                <button type="button" class="btn btn-primary submit-btn" onclick="ShowFilterResult()">Ok</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="loadPartial">
+
+</div>
+
